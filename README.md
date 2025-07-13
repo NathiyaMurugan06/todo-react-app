@@ -1,12 +1,40 @@
-# React + Vite
+# 📝 To-Do React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and elegant To-Do List built with React, offering dark mode, task filtering, task editing, and progress tracking.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✅ Add new tasks
+- ✅ Mark tasks as completed (checkbox + green tick)
+- ✅ Edit tasks (double-click to edit)
+- ✅ Delete tasks
+- ✅ Filter by:
+  - All
+  - Active
+  - Completed
+- ✅ Light/Dark mode toggle
+- ✅ Progress bar showing task completion percentage
 
-## Expanding the ESLint configuration
+## 🌐 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 [Click here to view the live site on Netlify](https://your-netlify-site.netlify.app)  
+*(Replace the URL after deploying)*
+
+## 📸 Screenshots
+
+| Light Mode | Dark Mode |
+|------------|-----------|
+| ![Light](./screenshots/light-mode.png) | ![Dark](./screenshots/dark-mode.png) |
+
+## 🛠️ Technologies Used
+
+- React
+- CSS (custom styling)
+- Vite (for fast development)
+
+## 📦 Installation & Setup
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/NathiyaMurugan06/todo-react-app.git
+   cd todo-react-app
