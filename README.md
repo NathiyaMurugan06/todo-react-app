@@ -46,10 +46,7 @@ todo-react-app/
 │   └── main.jsx
 ├── package.json
 └── README.md
+
 📃 License
 This project is open-source and free to use under the MIT License.
-🔗 Live Deployment Link: https://nathiyam-todo-reactapp.netlify.app/
-
 Made with ❤️ by Nathiya Murugan
-
-
